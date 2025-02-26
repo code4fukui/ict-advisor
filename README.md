@@ -10,6 +10,10 @@
 - 一部改正令和３年４月14日総情地第44号
 
 - 出典: https://www.soumu.go.jp/main_content/000745956.pdf
+- 関連: [総務省｜ICT利活用の促進｜地域情報化アドバイザー派遣制度（ICT人材派遣制度）](https://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/manager.html)
+- 関連: [地域情報化アドバイザー派遣申請マニュアル](https://www.soumu.go.jp/main_content/000943378.pdf)
+- 関連: [地域情報化アドバイザー派遣に係る事務手順](https://www.applic.or.jp/prom/chiiki_adviser/manual_20190415_jimu1.pdf)
+- 関連: [地域情報化アドバイザー派遣報告書&全体会議資料掲載&アドバイザー情報共有 | 地域情報化アドバイザー](https://www.r-ict-advisor.jp/all_houkoku/)
 
 ## （本要綱の趣旨）
 
