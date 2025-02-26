@@ -14,6 +14,7 @@
 - 関連: [地域情報化アドバイザー派遣申請マニュアル](https://www.soumu.go.jp/main_content/000943378.pdf)
 - 関連: [地域情報化アドバイザー派遣に係る事務手順](https://www.applic.or.jp/prom/chiiki_adviser/manual_20190415_jimu1.pdf)
 - 関連: [地域情報化アドバイザー派遣報告書&全体会議資料掲載&アドバイザー情報共有 | 地域情報化アドバイザー](https://www.r-ict-advisor.jp/all_houkoku/)
+- 関連: [優良事例 | 優良事例・派遣事例 | 地域情報化アドバイザー](https://www.r-ict-advisor.jp/cases-case-good_practices/good_practices/)
 
 ## （本要綱の趣旨）
 
