@@ -1,5 +1,7 @@
 # ict-advisor
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A project to support the deployment of ICT advisors to local governments in Japan.
 
 ## Features
