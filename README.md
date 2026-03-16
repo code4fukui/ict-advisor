@@ -19,4 +19,4 @@ Local governments in Japan can apply to the Ministry of Internal Affairs and Com
 This project does not use any open data or external APIs. It is based on internal government regulations and processes.
 
 ## License
-This project is part of a government initiative and does not have a specified open source license.
+MIT License — see [LICENSE](LICENSE).
